@@ -562,4 +562,3 @@ leaflet(mpls_all) %>%
 
 [Link to Amy's Github](https://github.com/amyplambeck/week4_amy/blob/main/04_exercises.rmd)
 
-**DID YOU REMEMBER TO UNCOMMENT THE OPTIONS AT THE TOP?**
