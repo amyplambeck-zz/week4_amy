@@ -560,6 +560,6 @@ leaflet(mpls_all) %>%
 
   19. Below, provide a link to your GitHub page with this set of Weekly Exercises. Specifically, if the name of the file is 04_exercises.Rmd, provide a link to the 04_exercises.md file, which is the one that will be most readable on GitHub.
 
-[Link]()
+[Link to Amy's Github](https://github.com/amyplambeck/week4_amy/blob/main/04_exercises.rmd)
 
 **DID YOU REMEMBER TO UNCOMMENT THE OPTIONS AT THE TOP?**
